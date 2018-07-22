@@ -27,6 +27,7 @@ gem 'twitter-bootstrap-rails'
 #This will help you to automatically style rails
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
+gem 'figaro'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
